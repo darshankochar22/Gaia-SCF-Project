@@ -1,0 +1,5 @@
+# Your shell exports CC=gcc-13, which can't find the macOS SDK headers.
+# Force Apple clang for C deps (ring, aws-lc).
+[env]
+CC = { value = "/usr/bin/clang", force = true }
+CXX = { value = "/usr/bin/clang++", force = true }

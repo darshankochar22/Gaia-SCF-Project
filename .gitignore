@@ -1,0 +1,15 @@
+# Rust's output directory
+target
+
+# Local settings
+.soroban
+.stellar
+
+# Secrets and local data - never commit
+.env
+.env.*
+!.env.example
+records/
+node_modules/
+dist/
+.DS_Store
