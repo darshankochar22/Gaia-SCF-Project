@@ -21,7 +21,6 @@ The QR sits on the back of the pouch, where a pack already carries its printed c
 <p align="center">
   <img src="docs/images/pack-back-qr.jpg" alt="Back of the pouch with the batch QR printed on it" width="460">
   &nbsp;
-  <img src="docs/images/pack-front.jpg" alt="Front of the pouch" width="300">
 </p>
 
 <p align="center">
